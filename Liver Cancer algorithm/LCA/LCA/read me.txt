@@ -1,0 +1,19 @@
+Liver Cancer Algorithm (LCA)
+        
+Cite the following paper:
+
+Houssein, Essam H., Diego Oliva, Nagwan Abdel Samee, Noha F. Mahmoud, and Marwa M. Emam. 
+"Liver Cancer Algorithm: A novel bio-inspired optimizer." 
+Computers in Biology and Medicine (2023): 107389.
+
+
+
+
+The files in this zip archive are MATLAB m-files that can be used to study Liver Cancer Algorithm (LCA).
+
+LCA is the method that we invented and wrote about in the following paper:
+
+https://www.sciencedirect.com/science/article/pii/S0010482523008545?dgcid=rss_sd_all
+
+%%%%%%%%%%%%%%%
+
